@@ -1,0 +1,6 @@
+{
+  "name": "SIMPRO — Sistem Informasi Monitoring Protokoler",
+  "description": "Platform internal koordinasi operasional, monitoring agenda, pembaruan status kegiatan, dan informasi pergerakan Bupati dan Wakil Bupati dengan dukungan offline-first dan kontrol akses berbasis peran.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
